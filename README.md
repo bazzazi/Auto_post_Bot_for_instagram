@@ -5,4 +5,4 @@ only by drag and drop, post your images/videos to instagram.
 2) copy the path of these folders to 'from_folder' and 'to_folder' in main.py
 3) drag your images/videos to origin folder to post in instagram.
 4) enjoy :)
-5) don't forget to follow me
+5) please don't forget to follow me
