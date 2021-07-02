@@ -1,4 +1,4 @@
-###############           #########        #######   #######        #########      #######       #
+###############          ##########        #######   #######        #########      #######       #
 #              #        #          #             #         #       #         #           #
 #               #       #          #            #         #        #         #          #        #
 #              #        #          #           #         #         #         #         #         #
@@ -11,7 +11,7 @@
 
 
 # Auto post Bot for instagram
-# By Mohammad Ali Bazzazi
+# Developer: Mohammad Ali Bazzazi (me)
 # by only drag and drop, post an image or video in your inta account Easily
 # Don't forget to follow me
 # enjoy  :)
