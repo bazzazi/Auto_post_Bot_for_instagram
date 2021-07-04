@@ -16,6 +16,7 @@
 # Don't forget to follow me
 # enjoy  :)
 
+########################### START ###########################
 # import Libraries
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
@@ -94,3 +95,5 @@ except KeyboardInterrupt:
     observer.stop()
 
 observer.join()
+
+########################### END ###########################
