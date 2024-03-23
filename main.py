@@ -12,7 +12,7 @@
 
 # Auto post Bot for instagram
 # Developer: Mohammad Ali Bazzazi (me)
-# by only drag and drop, post an image or video in your inta account Easily
+# by only drag and drop, post an image or video in your insta account Easily
 # Don't forget to follow me
 # enjoy  :)
 
