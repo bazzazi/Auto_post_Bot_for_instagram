@@ -3,6 +3,7 @@ Hi everybody :wave:
 
 Hope you doing well :blush:
 
+Follow instruction to use the script.
 - Put your insta **Username & Password** in info.py file
 - Create two folders for origin and destination.
 - Copy the path of these folders to 'from_folder' and 'to_folder' in main.py
