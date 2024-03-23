@@ -1,4 +1,4 @@
-# Auto Post Bot For Instagram :robot: img src="https://github.com/bazzazi/RequiredImages/blob/main/instagram.png" width="40px"/>
+# Auto Post Bot For Instagram :robot: <img src="https://github.com/bazzazi/RequiredImages/blob/main/instagram.png" width="40px"/>
 Hi everybody :wave:
 
 Hope you doing well :blush:
