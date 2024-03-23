@@ -3,11 +3,11 @@ Hi everybody :wave:
 
 Hope you doing well :blush:
 
+- Put your insta **Username & Password** in info.py file
 - Create two folders for origin and destination.
 - Copy the path of these folders to 'from_folder' and 'to_folder' in main.py
 - Drag your images/videos to origin folder to post in instagram.
 - Enjoy 🙂
-- Put your insta **Username & Password** in info.py file
 
 
 ## Platforms :iphone::computer:
